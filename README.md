@@ -5,7 +5,7 @@
 * Uses mouse movement to animate the screen
 * It's responsive - doesn't move when running on mobile.
 
-![Example]('./assets/screnshoot-1.png)
+![Example]('./assets/screnshoot-1.png')
 
 ## Development setup
 
