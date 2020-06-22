@@ -2,10 +2,10 @@
 > React project where I tested how to work with animations based on mouse movement, and learned how to use masks in CSS. On the example I made a Sherlock Holmes style business card
 
 ## Features:
-* the features
-* the features
-* the features
+* Uses mouse movement to animate the screen
+* It's responsive - doesn't move when running on mobile.
 
+![Example]('./src/assets/screnshoot-1.png)
 
 ## Development setup
 

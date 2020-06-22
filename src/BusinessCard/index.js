@@ -11,7 +11,6 @@ function BussinesCard() {
   }
   return (
     <div className="business-card">
-
       <div className="wrapper" onMouseMove={handleMouseMove}>
         <div className="b-light"></div>
         <div

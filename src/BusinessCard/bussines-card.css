@@ -90,9 +90,12 @@
   bottom: 20px;
   font-size: 16px;
   font-weight: 700;
-  line-height: 30px;
+  line-height: 10px;
   color:transparent;
   text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+}
+.b-card.b-back .b-right a {
+  color: #ffffff;
 }
 
 .business-card .b-card.b-front {
@@ -147,16 +150,18 @@
   .business-card .b-card.b-back .b-left h3 {
     padding-top: 5px;
     font-size: 12px;
+    margin: 0;
+    margin-bottom: 2px;
   }
   .business-card .b-card.b-back .b-left h3 {
-    letter-spacing: 2px;
-    word-spacing: 6px;
+    letter-spacing: 0px;
+    word-spacing: 1px;
   }
   .b-card.b-back .b-right {
     width: 160px;
     right: 10px;
     bottom: 10px;
     font-size: 10px;
-    line-height: 15px;
+    line-height: 5px;
   }
 }
